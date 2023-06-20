@@ -22,7 +22,7 @@ cette application mobile permet de tester les connaissance en java.
       
       5- interface 5 pour passer le quiz :
 
-    ![WhatsApp Image 2023-06-20 at 13 40 40 (1)](https://github.com/bouarifkaoutar/Quiz_application/assets/108548578/f051e26b-7ad6-4ef4-b7ed-ccdb90b46313)
+   ![WhatsApp Image 2023-06-20 at 13 40 40 (1)](https://github.com/bouarifkaoutar/Quiz_application/assets/108548578/f051e26b-7ad6-4ef4-b7ed-ccdb90b46313)
 
       6- interface 6 pour afficher le score : 
       
