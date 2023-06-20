@@ -1,0 +1,20 @@
+Quel est le mot-clé utilisé pour déclarer une constante en Java ?
+final
+Combien d'octets un type de données "int" occupe-t-il en Java ?
+ 4
+Quel est le mot-clé utilisé pour définir une méthode dans une interface en Java ?
+default
+Combien de valeurs peut stocker un booléen en Java ?
+ 2
+Quel est le mot-clé utilisé pour hériter d'une classe en Java ?
+extends
+Combien de bits sont utilisés pour représenter un type de données "char" en Java ?
+ 16
+Quel est le mot-clé utilisé pour démarrer l'exécution d'un programme Java ?
+public
+Combien de paramètres une méthode peut-elle prendre au maximum en Java ?
+ 255
+Quel est le mot-clé utilisé pour arrêter l'exécution d'une boucle en Java ?
+break
+Combien de niveaux de priorité existe-t-il pour les threads en Java ?
+10
