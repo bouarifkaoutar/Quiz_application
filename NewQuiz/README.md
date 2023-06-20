@@ -26,7 +26,8 @@ cette application mobile permet de tester les connaissance en java.
 
       6- interface 6 pour afficher le score : 
       
-      ![Uploading WhatsApp Image 2023-06-20 at 13.40.39 (1).jpeg…]()
+      ![WhatsApp Image 2023-06-20 at 13 40 39 (1)](https://github.com/bouarifkaoutar/Quiz_application/assets/108548578/8c4f7d23-fa82-4ab6-aacb-f519fbb509e1)
+
 
 
 
