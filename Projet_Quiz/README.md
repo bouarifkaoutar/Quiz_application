@@ -35,7 +35,7 @@ Pour exécuter l'application Quiz Java sur votre machine, suivez les étapes sui
    
 
 2. Clonez ce repository sur votre machine en utilisant la commande suivante :
-   git clone https://github.com/votre_utilisateur/quiz-java.git
+   git clone https://github.com/bouarifkaoutar/Quiz_application/tree/master/Projet_Quiz
 
 ---
 
