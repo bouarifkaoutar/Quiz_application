@@ -25,6 +25,17 @@ Après s'être connecté avec succès, les utilisateurs accèdent à cette inter
 - 
   ![interface2](https://github.com/bouarifkaoutar/Quiz_application/assets/108548578/0565131f-339e-4a80-af1e-d433f204b4fa)
 
+# Installation
+
+Pour exécuter l'application Quiz Java sur votre machine, suivez les étapes suivantes :
+
+1. Assurez-vous que vous avez les prérequis suivants installés :
+   - Java Development Kit (JDK)
+   - IntelliJ IDEA (ou un autre IDE Java de votre choix)
+   
+
+2. Clonez ce repository sur votre machine en utilisant la commande suivante :
+   git clone https://github.com/votre_utilisateur/quiz-java.git
 
 ---
 
